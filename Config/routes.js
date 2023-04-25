@@ -5,11 +5,7 @@ const routes = (app) => {
         res.send('hello world')
     })
 
-    app.get('/toppings', (req, res) => {
-        res.send('hello')
-    })
-
-    // app.post('/toppings', ToppingsController.getAllToppings())
+    app.get('/toppings', ToppingsController.getAllToppings)
 
 }
 
