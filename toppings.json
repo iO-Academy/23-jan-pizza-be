@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "6446a5532197322d33ac235b"
+  },
+  "name": "Plain chicken",
+  "img": "images/plain-chicken.jpg",
+  "category": 1
+},{
+  "_id": {
+    "$oid": "64478c6a2197322d33ac235c"
+  },
+  "name": "Tandoori chicken",
+  "img": "images/tandoori-chicken.jpg",
+  "category": 1
+},{
+  "_id": {
+    "$oid": "64478ca52197322d33ac235d"
+  },
+  "name": "Quorn chicken",
+  "img": "images/quorn-chicken.jpg",
+  "category": 1
+},{
+  "_id": {
+    "$oid": "64478cc32197322d33ac235e"
+  },
+  "name": "Spicy beef",
+  "img": "images/spicy-beef.jpg",
+  "category": 1
+},{
+  "_id": {
+    "$oid": "64478d842197322d33ac2360"
+  },
+  "name": "Meatballs",
+  "img": "images/meatballs.jpg",
+  "category": 1
+},{
+  "_id": {
+    "$oid": "64478dba2197322d33ac2361"
+  },
+  "name": "Prosciutto",
+  "img": "images/prosciutto.jpg",
+  "category": 1
+},{
+  "_id": {
+    "$oid": "64478ded2197322d33ac2362"
+  },
+  "name": "Bacon",
+  "img": "images/bacon.jpg",
+  "category": 1
+},{
+  "_id": {
+    "$oid": "64478e142197322d33ac2363"
+  },
+  "name": "Chorizo",
+  "img": "images/chroizo.jpg",
+  "category": 1
+},{
+  "_id": {
+    "$oid": "64478e592197322d33ac2364"
+  },
+  "name": "Pulled pork",
+  "img": "images/pulled-pork.jpg",
+  "category": 1
+},{
+  "_id": {
+    "$oid": "64478e902197322d33ac2365"
+  },
+  "name": "Sweetcorn",
+  "img": "images/sweetcorn.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "64478fb02197322d33ac2366"
+  },
+  "name": "Peppers",
+  "img": "images/peppers.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "644790032197322d33ac2367"
+  },
+  "name": "Onion",
+  "img": "images/onions.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "644790432197322d33ac2368"
+  },
+  "name": "Mushrooms",
+  "img": "images/mushrooms.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "644790692197322d33ac2369"
+  },
+  "name": "Olives",
+  "img": "images/olives.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "6447908e2197322d33ac236a"
+  },
+  "name": "Rocket",
+  "img": "images/rocket.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "644790af2197322d33ac236b"
+  },
+  "name": "Jalapeños",
+  "img": "images/jalapenos.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "644790f62197322d33ac236c"
+  },
+  "name": "Tomatoes",
+  "img": "images/tomato.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "644791312197322d33ac236d"
+  },
+  "name": "Gherkins",
+  "img": "images/gherkins.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "644792012197322d33ac236f"
+  },
+  "name": "Courgettes",
+  "img": "images/courgettes.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "644792382197322d33ac2370"
+  },
+  "name": "Aubergine",
+  "img": "images/aubergine.jpg",
+  "category": 2
+},{
+  "_id": {
+    "$oid": "644792632197322d33ac2371"
+  },
+  "name": "Mozarella",
+  "img": "images.mozeralla.jpg",
+  "category": 3
+},{
+  "_id": {
+    "$oid": "644792b62197322d33ac2372"
+  },
+  "name": "Parmesan",
+  "img": "images/parmesan.jpg",
+  "category": 3
+},{
+  "_id": {
+    "$oid": "644792ea2197322d33ac2373"
+  },
+  "name": "Blue cheese",
+  "img": "images/blue-cheese.jpg",
+  "category": 3
+}]
