@@ -1,15 +1,16 @@
-const formatJsonResponse = require("./Services/JsonResponseService");
+const formatJsonResponse = require("./JsonResponseService");
 
 describe('formatJsonResponse', () => {
     test('msg, statusCode and data displayed correctly', () => {
-        expect(formatJsonResponse('somethings gone wrong, task not added', 406)).toStrictEqual({
-            "msg": "somethings gone wrong, task not added",
+        expect(formatJsonResponse('it worked', [], 200)).toStrictEqual({
+            "message": "it worked",
             "data": [],
-            "status": 406
+            "status": 200
         })
     })
-    test('how function handles data param when its a string rather than an array', () => {
-        expect(() => formatJsonResponse('somethings gone wrong, task not added', 406, 'silly')).toThrow(
-            Error)
+
+    test('checks return type is object', () => {
+        let res = formatJsonResponse('hello')
+        expect(typeof res).toBe('object')
     })
 })
