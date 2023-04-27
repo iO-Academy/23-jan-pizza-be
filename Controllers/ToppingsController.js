@@ -6,7 +6,7 @@ const getAllToppings = async (req, res) => {
 
     const collection = await DBService('toppings')
     const data = await collection.find(queryFilter).toArray()
-    res.json(JsonResponseService('it worked', data))
+    res.json(JsonResponseService('all toppings displayed', data))
 }
 
 exports.getAllToppings = getAllToppings
