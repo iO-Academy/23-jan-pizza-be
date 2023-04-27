@@ -39,7 +39,8 @@ The API should now be running on localhost:8000.
 
 **Get all toppings**
 
-Returns json data detailing all of the todos in the `todos` collection.
+Returns json data detailing all of the toppings in the `toppings` collection.
+
 * **URL**
 
   /toppings
