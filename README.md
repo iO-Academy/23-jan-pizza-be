@@ -74,10 +74,10 @@ Returns json data detailing all of the toppings in the `toppings` collection.
 
 # **Testing**
 
-Jest has been installed for testing, to run tests - input the below in the command line
+Jest has been installed for testing, to run tests - input the below in the command line within the project directory
 
 ````
-Run npm test
+npm tests
 ````
 
 # **Built with**
